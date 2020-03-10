@@ -1,7 +1,7 @@
 ## Aurora And Database Migration Labs
 
 This github repo contains Aurora MySQL and PostgreSQL Labs, Aurora Serverless Lab and Heterogeneous database migration with DMS Labs.
-
+started on march 10 2020
 ## Current Labs
 
 [Aurora MySQL](https://github.com/aws-samples/aurora-and-database-migration-labs/blob/master/Labs/Aurora%20MySQL/Aurora%20MySQL%20Hands%20On%20Lab%20Manual%202.1.pdf) - In this lab you will create Aurora MySQL DB Cluster, modify security group to allow access to the Aurora MySQL DB instance from your computer, load data from S3 into Aurora MySQL database, create read replica instance & access table, create a database copy using Aurora "Clone" feature, and perform DML query on primary DB and validate data on primary and cloned DB copy.
